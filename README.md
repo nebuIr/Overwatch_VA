@@ -63,6 +63,8 @@ Overwatch VA Profile
 
 * **settings; options:** *Open "Options"*
 
+* **go back:** *Go back in Menu*
+
 ### Play
 
 * **Play:** *Select "Play" in Main Menu*
