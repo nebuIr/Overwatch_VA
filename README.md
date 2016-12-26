@@ -5,7 +5,7 @@ Overwatch VA Profile
 ## Configuration:
 
 * **[Configuration]Coordinates:** *Global mouse coordinates*
-* **[Configuration]Coordinate_factor:** *Coordinates factor for screen resolution (1080p factor x1)*
+* **[Configuration]Coordinate_factor:** *Coordinates factor for screen resolution (1080p factor x1) [Currently not implemented, only 1080p supported]*
 * **[Configuration]Key bindings:** *Please Check this for your key binding*
 * **[Configuration]Long_Pause:** *Global pause between mouse movement and click*
 * **[Configuration]Pause:** *Global pause between mouse movement and click*
