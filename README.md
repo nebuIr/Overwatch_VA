@@ -13,9 +13,9 @@ Overwatch VA Profile
 
 ## Voice Commands:
 
-### Select; Switch: Open Hero selection
-
 ### Hero
+
+* **Select; Switch:** *Open Hero selection*
 
 * **Ana; Bastion; D.va; Genji; Hanzo; Junkrat; Lucio; McCree; Mei; Mercy; Pharah; Reaper; Reinhardt; Roadhog; Soldier; Sombra; Symmetra; Torbjörn; Tracer; Widowmaker; Winston; Zarya; Zenyatta:** *Select spoken hero*
 
