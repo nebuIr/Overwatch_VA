@@ -30,8 +30,9 @@ Overwatch VA Profile
 
 ### Optional Configurations
 
-* **[Configuration]Long_Pause:** *Global pause between mouse movement and click*
-* **[Configuration]Pause:** *Global pause between mouse movement and click*
+* **[Configuration]Long_Pause:** *Global Long pause between mouse movement and click*
+* **[Configuration]Pause:** *Global Normal pause between mouse movement and click*
+* **[Configuration]Short_Pause:** *Global Short pause between mouse movement and click*
 * **[Configuration]Coordinates:** *Global mouse coordinates*
 * **[Configuration]Coordinates_formula:** *Formula to calculate X value of hero button*
 * **[Configuration]Coordinates_formula_select:** *Formula to calculate X value of hero button (Used for specific heroe selection)*
