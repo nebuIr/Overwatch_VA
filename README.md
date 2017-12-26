@@ -18,18 +18,23 @@ Overwatch VA Profile
 
 ## Configuration:
 
-* **[Configuration]Coordinates:** *Global mouse coordinates*
+### Important Configurations
+
 * **[Configuration]Coordinate_factor:** *Coordinates factor for screen resolution (deafult 1080p factor x1)*
     * **Factor 0.71:** *1360x768*
     * **Factor 0.83:** *1600x900*
     * **Factor 1:** *1920x1080*
     * **Factor 1.33:** *2560x1440*
     * **Factor 2:** *3860x2160*
-* **[Configuration]Coordinates_formula:** *Formula to calculate X value of hero button*
-* **[Configuration]Coordinates_formula_select:** *Formula to calculate X value of hero button (Used for specific heroe selection)*
 * **[Configuration]Key bindings:** *Please Check this for your key binding*
+
+### Optional Configurations
+
 * **[Configuration]Long_Pause:** *Global pause between mouse movement and click*
 * **[Configuration]Pause:** *Global pause between mouse movement and click*
+* **[Configuration]Coordinates:** *Global mouse coordinates*
+* **[Configuration]Coordinates_formula:** *Formula to calculate X value of hero button*
+* **[Configuration]Coordinates_formula_select:** *Formula to calculate X value of hero button (Used for specific heroe selection)*
 
 
 ## Voice Commands:
