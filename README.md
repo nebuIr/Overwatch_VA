@@ -4,14 +4,17 @@ Overwatch VA Profile
 ## Installation:
 
 * **Import Profile:** 
-    * *In Voice Attack click the button to the right of the edit button*
+    * *In Voice Attack, click the button to the right of the edit button, which is located at the top*
     * *Click "Import Profile"*
     * *Select the "Overwatch_VA.vap" file from your downloaded and ectracted zip file*
     
 * **Import Sound Files:**
-    * *Copy the "Overwatch_VA" folder from your downloaded and ectracted zip file
-    * *Paste it in your Voice Attack "Sounds" folder
+    * *Copy the "Overwatch_VA" folder from your downloaded and ectracted zip file*
+    * *Paste it into your Voice Attack "Sounds" folder*
         * *By default, the "Sounds" folder is under the Voice Attack root directory*
+        
+**That's it, you've now successfully installed the Overwatch VA Profile! To use it, just select the profile from your profiles list.**
+
 
 ## Configuration:
 
