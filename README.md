@@ -1,4 +1,4 @@
-Overwatch VA Profile
+Overwatch VA Profile v0.2
 ====================
 
 ## Installation:
