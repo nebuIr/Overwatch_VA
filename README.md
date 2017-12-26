@@ -24,7 +24,7 @@ Overwatch VA Profile
 
 * **Select; Switch:** *Open Hero selection*
 
-* **Ana; Bastion; D.va; Doomfist; Genji; Hanzo; Junkrat; Lucio; McCree; Mei; Mercy; Moira; Orisa; Pharah; Reaper; Reinhardt; Roadhog; Soldier; Soldier76; Sombra; Symmetra; Torbjörn; Tracer; Widowmaker; Winston; Zarya; Zenyatta:** *Select spoken hero*
+* **Ana; Bastion; D.va; Doomfist; Genji; Hanzo; Junkrat; Lucio; McCree; Mei; Mercy; Moira; Orisa; Pharah; Reaper; Reinhardt; Roadhog; Soldier; Soldier76; Sombra; Symmetra; Torbjoern; Tracer; Widowmaker; Winston; Zarya; Zenyatta:** *Select spoken hero*
 
 * **random:** *select random hero*
     * **stop random:** *cancel random hero selection*
